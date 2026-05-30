@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersalidate",
+        "uuid": 8186868,
+        "checksum": "vzk7ns"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
